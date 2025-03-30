@@ -25,4 +25,7 @@
   - **[Launch Multiple Programs in Windows](https://github.com/flavio-junior/script-to-init-programs-windows)**
  
 - **Play Store:**
-  - **[Safe-Pass](https://play.google.com/store/apps/details?id=br.com.safe.pass)** 
+  - **[Safe-Pass](https://play.google.com/store/apps/details?id=br.com.safe.pass)**
+ 
+- **Extra:**
+  - **[Templete to Documentation of Projects](https://github.com/flavio-junior/docs-templete)**
