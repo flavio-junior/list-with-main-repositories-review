@@ -5,8 +5,10 @@
   - **[Safe-Pass](https://github.com/flavio-junior/Safe-Pass?tab=readme-ov-file)**
 
 - **Back End:**
+  - **[Auth0 with Spring Boot And Kotlin](https://github.com/flavio-junior/auth)**
   - **[Digital Order - Kotlin](https://github.com/flavio-junior/digital-order-back-end)**
   - **[Spring Sale - Kotlin](https://github.com/flavio-junior/spring-sale)**
+  - **[Send Email With Kotlin And SMTP of Gmail](https://github.com/flavio-junior/send-email-with-gmail-and-smtp)**
   - **[Send SMS With Twilio And Kotlin With Spring Boot](https://github.com/flavio-junior/send-sms-with-twilio-and-kotlin-with-spring-boot)**
 
 - **Desktop Application:**
