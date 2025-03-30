@@ -17,6 +17,9 @@
  
 - **Apps from companies I've worked at:**
   - **[Player’s Bank - Native App - Android](https://play.google.com/store/apps/details?id=com.odete.playersbank&hl=pt_BR&gl=US)**
+
+- **Scripts:**
+  - **[Launch Multiple Programs in Windows](https://github.com/flavio-junior/script-to-init-programs-windows)**
  
 - **Play Store:**
   - **[Safe-Pass](https://play.google.com/store/apps/details?id=br.com.safe.pass)** 
