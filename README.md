@@ -1,7 +1,7 @@
 # List with main repositories to review
 
 - **Android:**
-  - **[Digital Order - Android Native With Kotlin](https://github.com/flavio-junior/digital-order)**
+  - **[Digital Order - Android Native With Kotlin](https://github.com/flavio-junior/digital-order-native-app-android)**
   - **[Safe-Pass](https://github.com/flavio-junior/Safe-Pass?tab=readme-ov-file)**
 
 - **Back End:**
@@ -13,7 +13,7 @@
   - **[Smart Schedule | Import And Export CSV Or XLSX - Kotlin](https://github.com/flavio-junior/smart-schedule-import-and-export-csv-or-xlsx)**
 
 - **Desktop Application:**
-  - **[Digital Order - KMP](https://github.com/flavio-junior/dashboard-company-front-end)**
+  - **[Digital Order - KMP](https://github.com/flavio-junior/digital-order-mobile-app-kmp)**
 
 - **Licences:**
   - **[Digital Order](https://github.com/flavio-junior/polices-digital-order)**
