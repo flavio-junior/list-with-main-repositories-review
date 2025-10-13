@@ -3,6 +3,10 @@
 - **Android:**
   - **[Digital Order - Android Native With Kotlin](https://github.com/flavio-junior/digital-order-native-app-android)**
   - **[Safe-Pass](https://github.com/flavio-junior/Safe-Pass?tab=readme-ov-file)**
+  - **[challenge-zig-pay-comics](https://github.com/flavio-junior/challenge-zig-pay-comics)**
+
+- **KMP:**
+  - **[spring-sale-kmp](https://github.com/flavio-junior/spring-sale-kmp)**
 
 - **Back End:**
   - **[Auth0 with Spring Boot And Kotlin](https://github.com/flavio-junior/auth0-with-spring-boot-and-kotlin)**
@@ -14,6 +18,9 @@
 
 - **Desktop Application:**
   - **[Digital Order - KMP](https://github.com/flavio-junior/digital-order-mobile-app-kmp)**
+  - **[Digital Order - KMP - Youtube](https://www.youtube.com/watch?v=JkSMTDOCGoQ&list=PLoWHBWVWTfi2hgIY59_eCsQyBsVkiXs-J)**
+  - **[Digital Order - KMP - Youtube | Impressão de notas fiscais com o Comanda Digital](https://youtube.com/shorts/MTMvs6LoLtM)**
+  - **[Digital Order - KMP - Youtube | Protótipo Inicial do App](https://youtube.com/shorts/pcNoz3wirCs)**
 
 - **Licences:**
   - **[Digital Order](https://github.com/flavio-junior/polices-digital-order)**
@@ -28,5 +35,9 @@
 - **Play Store:**
   - **[Safe-Pass](https://play.google.com/store/apps/details?id=br.com.safe.pass)**
  
+- **Links:**
+  - **[Medium](https://medium.com/@flaviojunior.ofc)**
+  - **[Como Criar Aplicações Desktop com Kotlin Multiplatform - Introdução para iniciantes](https://www.youtube.com/watch?v=Aj5HHH55cAg&t=1031s)**
+  
 - **Extra:**
   - **[Templete to Documentation of Projects](https://github.com/flavio-junior/docs-templete)**
